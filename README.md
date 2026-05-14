@@ -61,7 +61,11 @@ Where **n** is the number of years.
 
 ## Screenshot
 
-> _Add a screenshot of the app here once deployed._
+<img width="695" height="853" alt="image" src="https://github.com/user-attachments/assets/f67ba76a-f79d-4e38-b6f4-6be562c11737" />
+
+<img width="651" height="315" alt="image" src="https://github.com/user-attachments/assets/ab31a7ec-7ee3-446d-82ce-8f3366a4ea44" />
+
+
 
 ---
 
