@@ -1,5 +1,5 @@
 # To Run Streamlit use this code
-# python -m streamlit
+# python -m streamlit run app.py
 
 # pip install all the dependencies prior to using the code
 
