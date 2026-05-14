@@ -72,3 +72,8 @@ Where **n** is the number of years.
 ## License
 
 MIT License — free to use and modify.
+
+---
+## Author
+
+Ramakrishna Prabhu
